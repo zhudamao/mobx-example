@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-76f392a50ab7d9d46e13ad0557637fedf77f72ac.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-c306e5b9d738469600e5ca40b05cba5c49eefb3a.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-df1e9704bb16dddb9be50331f26dd65a0d0d11c9.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-655e417c036295bf8c662895db5d3842205bd43b.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-20a946edc70b98e968c9c25ad90b2fed597dcea1.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-ac437ad62d250ee185c0e5dd316bb03ce2aff1b0.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-c9f78d820cbb32c889ce52d8b433b25c5323d962.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-2739b66e5806ac8012ce2dc2c4cced69cdd91737.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-feeed90c2ccdcaf4c7322e479e8973d3cb5e50a2.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-c052adbb6ea206ae52a87b18068f266a0b2c896a.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-3e3fa53f429a53f8cd1d0b0bd3846af64eff047e.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-a7589d88739a3633fa6b5a1eaa0d0099bd573684.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-b43f0c25ed879dfa2951ebb5127902ee7a313014.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-0ffdbb13a5ef522fee3fbb354c01bb055252d686.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-48edb3474f11cc87088b9dde919bbc19a5eae434.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-883d6b7b646217b31fdc212fcf607cb1ca48368f.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-5e6571f1a0b188798dcbf985ee851c9bd4749bff.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/23.4.0/ffbe55fdb2bb456b1485831706a9eac3300bb6b8/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-1a689078d51cf9b4bf75fe6d3cacf02c6141a6e5.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-d50aa13c50e1442d66c1fd4c722365ba7279ca43.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-8e1f97501c9c76b1950c95d217387053bfe11e42.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-b777ef40ac00c82d7bf37c1a77aa9e1a5477ea08.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-3e0539c68dd79ec5be617418e3885e7ab8f29720.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/classes-a96a51195e250721a68af1c2c6cdbcaa6edd772e.jar" />
+    </item>
+    <item
+        jar="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/zhudamao/Documents/HTML/2018/6.5 obx/rn_cnode/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-7234131a4a41e29805fde5286fe1b1b7b9860559.jar" />
+    </item>
+
+</items>
