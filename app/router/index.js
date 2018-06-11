@@ -7,7 +7,7 @@ import {
   BackAndroid,
 } from 'react-native';
 
-import Index from "./topic"
+
 import Page from "./page"
 import Header from '../component/header'
 import WebPage from './web';
@@ -48,7 +48,7 @@ class App extends Component {
           }
           return Navigator.SceneConfigs.FloatFromRight;
         }}
-        initialRoute={{ id: 'home',name: "话题"}}
+        initialRoute={{ id: 'Todo',name: "Todo"}}
         renderScene = {this.renderScene.bind(this)}
         navigationBar={Header()}
       />
